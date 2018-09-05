@@ -10,4 +10,4 @@ from calculadora import soma
 	assert soma (5,5) == 10
 	assert soma('n','o')== None 
 	assert soma ('-1','y')== None
-	assert soma ('cinco', 'um') == false 
+	assert soma ('cinco', 'um') == None
