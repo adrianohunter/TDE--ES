@@ -1,6 +1,6 @@
 def soma(num1, num2):
  
-# teste
+# uyuyu teste
 	
 try:
 return float(num1) + float(num2)
