@@ -2,7 +2,7 @@ import pytest
 from calculadora import soma
 
 
- def test_soma ():
+def test_soma ():
 
     	assert soma (1,1) == 2
  	assert soma (3,2) == 5
