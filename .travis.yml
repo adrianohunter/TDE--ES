@@ -2,4 +2,5 @@ language: python
 python:
  - "3.6"
 script:
- - py.test -v -r f --cov=.
+ - py.test 
+ 
