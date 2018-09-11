@@ -1,2 +1,2 @@
 # TDE--ES
-para q todos aqueles q verem digam q eu ja fiz o tde
+https://travis-ci.org/adrianohunter/TDE--ES.svg?branch=master
