@@ -2,8 +2,8 @@ language: python
 python:
  - "3.6"
 install:
- -pip install -r requirements.txt
- -pip install coveralls
+ - pip install -r requirements.txt
+ - pip install coveralls
 script:
  - py.test -v -r f --cov-report=.  --cov-report=html
  #-coverage run --source=home manage.py test home
